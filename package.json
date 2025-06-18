@@ -1,7 +1,7 @@
 {
   "name": "com.pixelsmao.unitycommonsolution.touchsocket",
   "version": "3.0.19",
-  "displayName": "UnityCommonSolution-TouchSokcet",
+  "displayName": "Pixelsmao.UnityCommonSolution-TouchSokcet",
   "description": "此仓库的代码是TouchSocket中适用于Unity部分的代码，TouchSocket由作者若汝棋茗及其他贡献者开发，所有版权归作者若汝棋茗所有，程序集源代码在遵循 Apache License 2.0 的开源协议以及附加协议下，可免费供其他开发者二次开发或（商业）使用。",
   "unity": "2021.3",
   "author": {
